@@ -1,0 +1,20 @@
+.heading
+{
+    font-size: 50px;
+    color: white;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+button
+{
+    font-size: 25px;
+    border-radius: 55px;
+    font-weight: 500;
+    width: 750px;
+    box-shadow: 10px 10px 10px gray;
+}
